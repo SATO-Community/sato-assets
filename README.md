@@ -49,7 +49,12 @@ When using SATO assets:
 |---|---|
 | Website | https://sat0.org |
 | Whitepaper | https://sat0.org/whitepaper |
+| Community Website | https://sat0.club |
 | Documentation | https://github.com/SATO-Community/sato-docs |
+| Live Dashboard | https://sato-live-dashboard.vercel.app/ |
+| DeFiLlama | https://defillama.com/protocol/sato |
+| Community X | https://x.com/sat0_community |
+| Community Telegram | https://t.me/hooksato |
 | SATO ERC-20 | https://etherscan.io/token/0x829f4B62EEBE12Af653b4dD4fFc480966F7d7f09 |
 | SatoHook | https://etherscan.io/address/0x0000f07d2B5F1Ddf3244b8780F972f306EFd2888 |
 | SatoSwapRouter | https://etherscan.io/address/0x06A645079cd4F3Bb38FfaD47f92180B8041145E3 |
@@ -67,7 +72,7 @@ Users, wallets, scanners, and listing platforms should verify SATO through:
 - the public documentation repository;
 - on-chain contract state.
 
-SATO does not currently rely on official social channels for protocol verification. Claims made by unofficial accounts, chats, or groups should be verified against deployed contracts and public source code.
+Community websites and social channels support discovery and coordination, but they do not control the protocol and are not proof of contract authenticity. Verify claims against the deployed addresses, exact-match verified source packages, and on-chain state.
 
 ## Repository Contents
 
@@ -101,3 +106,4 @@ https://sat0.org
 These assets are provided for public SATO identification, token listing, documentation, and community reference purposes.
 
 Do not use these assets to misrepresent affiliation, impersonate protocol interfaces, or publish incorrect contract information.
+
