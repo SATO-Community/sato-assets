@@ -51,7 +51,7 @@ When using SATO assets:
 | Whitepaper | https://sat0.org/whitepaper |
 | Community Website | https://sat0.club |
 | Documentation | https://github.com/SATO-Community/sato-docs |
-| Live Dashboard | https://sato-live-dashboard.vercel.app/ |
+| Live Dashboard | https://satohook.com/ |
 | DeFiLlama | https://defillama.com/protocol/sato |
 | Community X | https://x.com/sat0_community |
 | Community Telegram | https://t.me/hooksato |
